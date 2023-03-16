@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "spatialprobit"]
+	path = spatialprobit
+	url = https://github.com/stefanwilhelm/spatialprobit
+	shallow = true
+	registered = true
+[submodule "tmvtnorm"]
+	path = tmvtnorm
+	url = https://github.com/stefanwilhelm/tmvtnorm
+	shallow = true
+	registered = true
