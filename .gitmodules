@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "spatialprobit"]
-	path = spatialprobit
-	url = https://github.com/stefanwilhelm/spatialprobit
 [submodule "tmvtnorm"]
 	path = tmvtnorm
 	url = https://github.com/stefanwilhelm/tmvtnorm
